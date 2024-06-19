@@ -2,7 +2,7 @@ package Calculator;
 
 import java.util.Scanner;
 
-public class Calc extends detectOperation {
+public class Calc {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите два числа (арабских или римских)");
